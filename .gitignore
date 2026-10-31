@@ -1,0 +1,11 @@
+**/weights/*
+!**/weights/__init__.py
+!**/weights/config.json
+!**/weights/generation_config.json
+!**/weights/tokenizer_config.json
+!**/weights/kalm_reranker.py
+!**/weights/kalm_reranker_utils.py
+**/.cache/
+**/.cog/
+**/__pycache__/
+*.py[cod]
