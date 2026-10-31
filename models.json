@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "models": {
+    "kalm-reranker-v1-nano-r2": {
+      "repo_id": "KaLM-Embedding/KaLM-Reranker-V1-Nano-R2",
+      "revision": "32b242bb7fd7ad6fd404154c09560d249ffe017f",
+      "files": {
+        "config.json": {
+          "size": 6104,
+          "sha256": "75926d34f90b64a3119e62535211bcd2305e8ea0ae4339773cb20dc84c8991d4",
+          "download": false
+        },
+        "generation_config.json": {
+          "size": 190,
+          "sha256": "43e408f6617d77454167c6c345452ba55d5bc145dcde9ed9ec9db59266756d2d",
+          "download": false
+        },
+        "tokenizer_config.json": {
+          "size": 772,
+          "sha256": "91605e4321058aa54733deaab787f60ea6a71a64906bd871fe6973216e6001f3",
+          "download": false
+        },
+        "kalm_reranker.py": {
+          "size": 11253,
+          "sha256": "602784137f45a6b3f111bd89f7ad21719c127773d1a1fdccf63fd89d89dfc8c7",
+          "download": false
+        },
+        "kalm_reranker_utils.py": {
+          "size": 7603,
+          "sha256": "083660647e785f58d73c20680c4e5db7139377101ba07333d6dbf9cafcf20129",
+          "download": false
+        },
+        "tokenizer.json": {
+          "size": 33384387,
+          "sha256": "f5b325224482ec441ec5fbe2a5ac08c3758e0f9605f6e54368e31f736fcfb01d",
+          "download": true
+        },
+        "model.safetensors": {
+          "size": 1572182264,
+          "sha256": "c1d8ed4eee064e9c594e8332896c7ebe3104f892b6ff3f321b443b8868ed01b9",
+          "download": true
+        }
+      }
+    },
+    "kalm-reranker-v1-small-r2": {
+      "repo_id": "KaLM-Embedding/KaLM-Reranker-V1-Small-R2",
+      "revision": "68b74f09ff2ab5df9b9a9a48c812a81aaff8815e",
+      "files": {
+        "config.json": {
+          "size": 6548,
+          "sha256": "7613057698c8e1f670a2a1b04155c40181f614b5206dceb427dc7fb97f2cf50f",
+          "download": false
+        },
+        "generation_config.json": {
+          "size": 190,
+          "sha256": "43e408f6617d77454167c6c345452ba55d5bc145dcde9ed9ec9db59266756d2d",
+          "download": false
+        },
+        "tokenizer_config.json": {
+          "size": 772,
+          "sha256": "91605e4321058aa54733deaab787f60ea6a71a64906bd871fe6973216e6001f3",
+          "download": false
+        },
+        "kalm_reranker.py": {
+          "size": 11253,
+          "sha256": "602784137f45a6b3f111bd89f7ad21719c127773d1a1fdccf63fd89d89dfc8c7",
+          "download": false
+        },
+        "kalm_reranker_utils.py": {
+          "size": 7603,
+          "sha256": "083660647e785f58d73c20680c4e5db7139377101ba07333d6dbf9cafcf20129",
+          "download": false
+        },
+        "tokenizer.json": {
+          "size": 33384387,
+          "sha256": "f5b325224482ec441ec5fbe2a5ac08c3758e0f9605f6e54368e31f736fcfb01d",
+          "download": true
+        },
+        "model.safetensors": {
+          "size": 4232105984,
+          "sha256": "b6b46cb756ff6c14a022dbd3f6c8f8de908e0e40431ac656444ba02b0ef7242d",
+          "download": true
+        }
+      }
+    },
+    "kalm-reranker-v1-large-r2": {
+      "repo_id": "KaLM-Embedding/KaLM-Reranker-V1-Large-R2",
+      "revision": "a862dd8581d4cb1b686b5c595c08be405129656c",
+      "files": {
+        "config.json": {
+          "size": 6996,
+          "sha256": "cb9cd9526c0669c3397e0e332215f9b2b642edca075dea43819002ce6debdfe2",
+          "download": false
+        },
+        "generation_config.json": {
+          "size": 190,
+          "sha256": "43e408f6617d77454167c6c345452ba55d5bc145dcde9ed9ec9db59266756d2d",
+          "download": false
+        },
+        "tokenizer_config.json": {
+          "size": 772,
+          "sha256": "91605e4321058aa54733deaab787f60ea6a71a64906bd871fe6973216e6001f3",
+          "download": false
+        },
+        "kalm_reranker.py": {
+          "size": 11253,
+          "sha256": "602784137f45a6b3f111bd89f7ad21719c127773d1a1fdccf63fd89d89dfc8c7",
+          "download": false
+        },
+        "kalm_reranker_utils.py": {
+          "size": 7603,
+          "sha256": "083660647e785f58d73c20680c4e5db7139377101ba07333d6dbf9cafcf20129",
+          "download": false
+        },
+        "tokenizer.json": {
+          "size": 33384387,
+          "sha256": "f5b325224482ec441ec5fbe2a5ac08c3758e0f9605f6e54368e31f736fcfb01d",
+          "download": true
+        },
+        "model.safetensors": {
+          "size": 15018037032,
+          "sha256": "577bc1ffbd33a324a37c2942684cf8b2d1144b336abe193dd813ecfb5ac3442b",
+          "download": true
+        }
+      }
+    }
+  }
+}
